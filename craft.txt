@@ -1,0 +1,36 @@
+Craft
+====================
+
+--Quartz Block--
+X X X
+X X X
+X X X
+X= Quartz Fragment
+
+--Quartz Brick--
+O O O
+O X O
+O X O
+X=Quartz Block
+O=Empty
+
+--Polish Quartz--
+O O O
+O X O
+O X O
+X=Quartz Brick
+O= Empty
+
+---Quartz Block Slab---
+O O O
+O O O
+X X X
+X=Quartz Block
+O= Empty
+
+--Quartz Block Stair--
+O O X
+O X X
+X X X
+X=Quartz Block 
+O= Empty
