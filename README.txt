@@ -1,7 +1,7 @@
 Quartz Mod
 ====================
 
-Adds Quartz ore, block of quartz and relative craft.
+This mod  adds Quartz Ore,Quartz block, Quartz Brick and Polish Quartz. You can find a block of quartz ore into the nether. For run the mod if you already have a nether portal you have to destroy it and create another one or only create another one in another place.
 
 Version: 1.1
 License: LGPL 2.1 or later
